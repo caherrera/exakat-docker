@@ -1,4 +1,4 @@
-FROM php:7.3-cli-stretch
+FROM php:7.1-cli-stretch
 
 LABEL MAINTAINER Exakat, Damien Seguy, dseguy@exakat.io
 ENV EXAKAT_VERSION 1.7.9
